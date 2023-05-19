@@ -1,0 +1,26 @@
+[
+   {
+      "titulo": "Repasar JS",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Armar aplicaiones de Tareas",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "Break",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Estudiar Ingles!",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "estudiar",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Desarrollar la app de la concesionaria",
+      "estado": "pendiente"
+   }
+]
